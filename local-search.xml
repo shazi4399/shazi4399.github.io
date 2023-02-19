@@ -23,25 +23,6 @@
   
   
   <entry>
-    <title>testdoc</title>
-    <link href="/2022/04/13/testdoc/"/>
-    <url>/2022/04/13/testdoc/</url>
-    
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><p><img src="/2022/04/13/testdoc/test.jpg"></p><p>2022&#x2F;4&#x2F;14&#x2F; 新增 test</p>]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>C++</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Hello World</title>
     <link href="/2022/04/13/hello-world/"/>
     <url>/2022/04/13/hello-world/</url>
